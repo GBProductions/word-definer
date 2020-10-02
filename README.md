@@ -1,12 +1,12 @@
 # _Word Definer_
 
-#### _{Brief description of application}, October 2nd 2020_
+#### _A program to store words, and write down what you believe it might mean. October 2nd 2020_
 
 #### By _**Garrett Brown**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This a program meant for children. If a child doesn't know a word, they can input the word and store it in the program. Once the word is entered, you can _
 
 ## Setup/Installation Requirements
 
@@ -31,7 +31,5 @@ _If you need support, please contact Garrett Brown at <garrettpaulbrown@gmail.co
 _Uses VSCode, Ruby, Sinatra, Heroku._
 
 ### License
-
-**
 
 Copyright (c) 2020 **_Garrett Brown_**
