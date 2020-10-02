@@ -6,17 +6,13 @@
 
 ## Description
 
-_This a program meant for children. If a child doesn't know a word, they can input the word and store it in the program. Once the word is entered, you can _
+_This a program meant for children. If a child doesn't know a word, they can input the word and store it in the program. Once the word is entered, you can enter in what you believe the definition might be (for later, to reference how close to the definition you got)._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Make sure you have the latest version of your favorite browser._
+* _Clone the "tdd-ruby" repository from Github to your computer._
+* _Navigate to the root directory of the project in the terminal and type 'code .' to view project in an editor like VS Code._
 
 ## Known Bugs
 
