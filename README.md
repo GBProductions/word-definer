@@ -8,6 +8,8 @@
 
 _This a program meant for children. If a child doesn't know a word, they can input the word and store it in the program. Once the word is entered, you can enter in what you believe the definition might be (for later, to reference how close to the definition you got)._
 
+_To view, visit this address: https://shrouded-lake-48894.herokuapp.com/_
+
 ## Setup/Installation Requirements
 
 * _Make sure you have the latest version of your favorite browser._
