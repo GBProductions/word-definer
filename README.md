@@ -1,6 +1,6 @@
 # _Word Definer_
 
-#### _A program to store words, and write down what you believe it might mean. October 2nd 2020_
+#### _A program to store words, and write down what you believe it might mean. October 11th 2020_
 
 #### By _**Garrett Brown**_
 
